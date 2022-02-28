@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning moneys deposited in the chamber of London by Sir Richard Gurney, Kt. &amp; Bar., late Lord Mayor of the city of London, and since his death, due to Sir John Pettus of the county of Suffolk, Knight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90626</idno>
+            <idno type="STC">Wing P1904A</idno>
+            <idno type="STC">ESTC R181743</idno>
+            <idno type="EEBO-CITATION">45504502</idno>
+            <idno type="OCLC">ocm 45504502</idno>
+            <idno type="VID">171818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning moneys deposited in the chamber of London by Sir Richard Gurney, Kt. &amp; Bar., late Lord Mayor of the city of London, and since his death, due to Sir John Pettus of the county of Suffolk, Knight.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gurney, Richard, --  Sir, 1577-1647 --  Estate.</term>
+               <term>Pettus, John, --  Sir, 1613-1690.</term>
+               <term>Claims against decedents' estates --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171818:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>CONCERNING MONEYS DEPOSITED In the Chamber of <hi>London</hi> BY S<hi rend="sup">ir</hi> Richard Gurney, Kt. &amp; Bar. LATE Lord Mayor OF THE City of London, And ſince his Death, due to Sir JOHN PETTUS of the County of <hi>Suffolk,</hi> Knight.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author in the Year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171818:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:171818:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>The Proceedings concerning the <hi>500 <abbr>l.</abbr>
+               </hi> depoſited in the Chamber of London, by Sir <hi>Richard Gurney,</hi> Anno <hi>1641.</hi>
+            </head>
+            <p>SIr <hi>Richard Gurney</hi> then Lord Mayor,<note place="margin">13 <hi>Decem.</hi> 1641.</note> depoſited 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> in the Chamber of <hi>London,</hi> which (ac<g ref="char:EOLhyphen"/>cording to the words in the receipt for it) by order of the Court of Aldermen, is to remain in the Cham<g ref="char:EOLhyphen"/>ber of <hi>London,</hi> until Security be given for the repay<g ref="char:EOLhyphen"/>ment thereof to the liking of the Court of Aldermen, together with ſuch coſts and dammages for the ſame after the Rate of 8 <hi>
+                  <abbr>l.</abbr> per Cent.</hi> for a year, from the time that the ſame is advanced, until it ſhall be re<g ref="char:EOLhyphen"/>paid, and this is ſubſcribed by <hi>Bateman</hi> then <hi>Cham<g ref="char:EOLhyphen"/>berlin</hi> of the City.</p>
+            <p>The then Houſe of Commons being diſpleaſed at ſome of Sir <hi>Richard Gurneys</hi> proceedings,<note place="margin">15 <hi>July</hi> 1642.</note> (manifeſt<g ref="char:EOLhyphen"/>ing his Loyalty to the King, and Fidelity in ſupport<g ref="char:EOLhyphen"/>ing the Rights of the City) carried up an Impeach<g ref="char:EOLhyphen"/>ment againſt him to the Lords houſe, for which he was this ſame day ſent to the Tower of <hi>London,</hi> and upon ſeveral hearings at the Lords Bar, both before his Commitment, and during his Tryal, coſt him a<g ref="char:EOLhyphen"/>bove 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <pb n="2" facs="tcp:171818:3"/>
+            <!-- PDF PAGE 3 -->
+            <p>He was ſentenced by the Lords,<note place="margin">12 <hi>Auguſt.</hi> 1642.</note> (amongſt other ſeverities) to continue a Priſoner in the Tower du<g ref="char:EOLhyphen"/>ring their Lordſhips pleaſure.</p>
+            <p>He was Plundered of all his Plate,<note place="margin">20 <hi>Auguſt.</hi> 1642.</note>, Goods, <hi>&amp;c.</hi> to the value of 4000 <abbr>
+                  <hi>l.</hi>
+               </abbr> beſides the loſs of Offices then in his guift, diſpoſed of to <hi>Pennington,</hi> of as great a value.</p>
+            <p>He borrowed 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> of Mr. <hi>William Chamberlaine</hi> and Mr. <hi>Pettit</hi> upon the Security and Aſſign<g ref="char:EOLhyphen"/>ment to them of the ſaid 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> depoſited in the Chamber of <hi>London.</hi>
+               <note place="margin">10 <hi>Septem.</hi> 1642.</note>
+            </p>
+            <p>He being in the Tower,<note place="margin">3 <hi>Decemb.</hi> 1642.</note> was Aſſeſt 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> for his Twenty fifth part, which he not paying, his Eſtate was Sequeſtred by order of <hi>Haberdaſhers-Hall</hi> in <hi>Feb.</hi> following, and ſo continued till <hi>November</hi> 1647.</p>
+            <p>Beſides his Impriſonment,<note place="margin">19 <hi>April</hi> 1644.</note> and the 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> aſſeſſed by <hi>Haberdaſhers-Hall,</hi> the Committee of <hi>Goldſmiths-Hall,</hi> iſſued out Warrants to ſeveral Counties to reſtrain his Rents, upon pretence of 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> alſo aſ<g ref="char:EOLhyphen"/>ſeſt on him by the Houſe of Commons.</p>
+            <p>Sir <hi>Richard Gurney</hi> Petitioning to the Commons, they ſent Mr. <hi>Aſh</hi> to him, to know whether he would pay the 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and he ſhould be freed of Impriſon<g ref="char:EOLhyphen"/>ment and Sequeſtration.</p>
+            <p>Sir <hi>Richard</hi> paid the 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> to <hi>Haberdaſhers-Hall,</hi>
+               <note place="margin">15 <hi>April</hi> 1645.</note> and had orders for diſcharging his Sequeſtration.</p>
+            <p>Mr. <hi>Aſh</hi> reports to the Commons,<note place="margin">2 <hi>March</hi> 1645.</note> that Sir <hi>Richard Gurney</hi> obſtinately refuſed to pay the ſaid 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> whereupon</p>
+            <p>The Commons ordered the levying it upon his Eſtate.<note place="margin">4 <hi>March</hi> 1645.</note>
+            </p>
+            <pb n="3" facs="tcp:171818:3"/>
+            <!-- PDF PAGE 3 -->
+            <p>The power of <hi>Haberdaſhers-Hall,</hi> and <hi>Goldſmiths-Hall,</hi> as to freeing his Eſtate of Sequeſtration, held in debate till <hi>April</hi> 1647. before he could get free of Sequeſtration.<note place="margin">
+                  <hi>Apr.</hi> 1647.</note>
+            </p>
+            <p>Sir <hi>Richard Gurney</hi> died a Priſoner of the Tower of <hi>London.</hi>
+               <note place="margin">3 <hi>October</hi> 1647.</note>
+            </p>
+            <p>His Executors <hi>Thomas</hi> Lord <hi>Richardſon,</hi>
+               <note place="margin">
+                  <hi>Nov.</hi> 1647. 1647. 1648. 1649.</note> and Sir <hi>John Pettus</hi> Knight, in right of their Wives (Coheirs to Sir <hi>Richard Gurney</hi>) proved his Will, and by ver<g ref="char:EOLhyphen"/>tue thereof, and Deeds of Settlement made in <hi>June</hi> 1641, his Truſtees and Executors were ſo Induſtrious that before the end of the year 1649, they ſold and diſpoſed of all his real Eſtate, and with the money paid great debts which Sir <hi>Richard</hi> owed before, and had contracted during his more than five years Im<g ref="char:EOLhyphen"/>priſonment, and thereby they thought to have en<g ref="char:EOLhyphen"/>joyed the Perſonal Eſtate in quiet, ſo as they did not think it ſafe or prudent to ſtir in this 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> or any o<g ref="char:EOLhyphen"/>ther of his perſonal Eſtate, as conceiving the per<g ref="char:EOLhyphen"/>ſonal Securities, were not ſo viſible as the real Eſtate.</p>
+            <p>The Executors divided the Perſonal Eſtate under Hand and Seal,<note place="margin">24 <hi>Decem.</hi> 1650.</note> whereby this 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> and the Intereſt fell to Sir <hi>John Pettus</hi> his ſhare, and upon the Ac<g ref="char:EOLhyphen"/>compt thereof, did pay ſeveral conſiderable debts, the other aſſign'd debts proving of little benefit to him. But the Executors having as yet no diſcharge of the ſaid 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> although there was a Ceſſation, did not think fit to ſtir in this, and according to their fears, ſo it happened; For</p>
+            <p>The Commons did order the Commiſſioners of <hi>Goldſmiths-Hall,</hi>
+               <note place="margin">3 <hi>Novemb.</hi> 1652.</note> forthwith to levy the ſame for the uſe of the Admiralty.</p>
+            <pb n="4" facs="tcp:171818:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <p>Thereupon the Commiſſioners ordered the Exe<g ref="char:EOLhyphen"/>cutors to pay it within ſeven days,<note place="margin">4 <hi>Novemb.</hi> 1652.</note> or they would proceed to levy it, and notwithſtanding all their applications,<note place="margin">25 <hi>January</hi> 1652.</note> Letters were ſent from thoſe Commiſſi<g ref="char:EOLhyphen"/>oners into every County where Sir <hi>Richard</hi> had any real or perſonal Eſtate, to Sequeſter it (ſold or un<g ref="char:EOLhyphen"/>ſold) accordingly every particular purchaſor of his real Eſtate in and about <hi>London,</hi> were ſummoned, <hi>viz.</hi> Sir <hi>John Frederick, &amp;c.</hi> to the value of 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and they did appear, but the Executors ſeeing (after a long defence for themſelves) that the Committee was reſolved to levy it upon the Purchaſors, and the Executors being ſenſible that the Purchaſors had pur<g ref="char:EOLhyphen"/>chaſed the Lands without any Covenant from the Executors againſt any Act of Sir <hi>Richards,</hi> the Exe<g ref="char:EOLhyphen"/>cutors were ſo juſt, that they in diſcharge of the Pur<g ref="char:EOLhyphen"/>chaſors, freely offered that they would pay the 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> rather than the Purchaſors ſhould ſuffer, and not only ſo, but paid their charges, and gave them a good Dinner beſides, of which generous dealing the Com<g ref="char:EOLhyphen"/>miſſioners were ſo ſenſible, that they allowed to the Executors ſome further time of Appeal to the Houſe of Commons, but the time being elapſed, and the Com<g ref="char:EOLhyphen"/>miſſioners preſſing for the mony, one of the Executors, <hi>viz.</hi> the Lord <hi>Richardſon,</hi> gave Bond for the payment of 2500 <abbr>
+                  <hi>l.</hi>
+               </abbr> but Sir <hi>John Pettus</hi> the other Executor, proffering his Intereſt for the ſatisfaction of the other 2500 <abbr>
+                  <hi>l.</hi>
+               </abbr> the Commiſſioners refuſed, whereupon he ſuffered himſelf to be Sequeſtred about two years be<g ref="char:EOLhyphen"/>fore he could get his diſcharge: whilſt the Executors were thus tranſacting about his real and perſonal E<g ref="char:EOLhyphen"/>ſtate, ſeveral of the Debtors to Sir <hi>Richard Gurney,</hi>
+               <pb n="5" facs="tcp:171818:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 4 -->did apply themſelves to the Executors, offering, that if the Executors would make ſuch abatements as they propoſed, they would pay the Executors, if not, they would diſcover the ſame to the Commiſſioners, ſo that the Executors did abate at leaſt 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> rather than have their debts diſcovered.</p>
+            <p>Amongſt the reſt of the Diſcoverers,<note place="margin">
+                  <hi>April</hi> 53.</note> two Alder<g ref="char:EOLhyphen"/>men, whereof one is now living, informed the Com<g ref="char:EOLhyphen"/>miſſioners of this 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> in the Chamber of <hi>London,</hi> due to Sir <hi>Richard,</hi> whereupon orders were iſſued to the Chamber to pay in the money, which the Court was ready to obey, but the aforeſaid Aſſignment to Mr. <hi>William Chamberlaine</hi> and Mr. <hi>Pettit,</hi> being not cancelled, it was produced, and proved (without tak<g ref="char:EOLhyphen"/>ing notice of the Reaſſignment of it to Sir <hi>Richard Gurneys</hi> Executors) and was allowed, ſo there was no further proceedings on that Diſcovery. By this time <hi>Cromwell</hi> took upon him to be Protector,<note place="margin">
+                  <hi>Decem.</hi> 54.</note> whereupon the Executors by Petition complaining of the Inju<g ref="char:EOLhyphen"/>ſtice of the Houſe of Commons (in puniſhing a man ſo often for one offence, or without hearing the Ex<g ref="char:EOLhyphen"/>ecutors Caſe, though it ſtood committed) gained a reference to his Councel, when the injuſtice and un<g ref="char:EOLhyphen"/>uſual proceedings were made ſo clear, that the Lord <hi>Richardſon</hi> was diſcharged of his Security given to <hi>Goldſmiths-Hall,</hi>
+               <note place="margin">
+                  <hi>Jan.</hi> 1654. 1655. 1656.</note> and Sir <hi>John Pettus</hi> of his Seque<g ref="char:EOLhyphen"/>ſtration, with an order of reſtitution of what had been taken from him, yet he loſt above 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> on that accompt; nor was there a clear effect of the or<g ref="char:EOLhyphen"/>der of diſcharging the 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> till the year 1657.</p>
+            <p>Theſe three years were years of great commotion in the City, <hi>&amp;c.</hi> ſo as there was no ſtirring there,<note place="margin">1657. 1658. 1659.</note> in matters which concerned money.</p>
+            <pb n="6" facs="tcp:171818:5"/>
+            <!-- PDF PAGE 5 -->
+            <p>The Executors were adviſed (though the 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> debt was transferred to Sir <hi>John Pettus</hi>) to Petition to the Lord Major,<note place="margin">In 1660. 1661.</note> 
+               <hi>&amp;c.</hi> in all their Names, and had ſome Proceedings upon it.</p>
+            <p>This Debt was lookt upon to be ſo good,<note place="margin">20 <hi>Novem.</hi> 1662.</note> that Mr. <hi>Charles Eucrard</hi> Goldſmith of <hi>London,</hi> (who a<g ref="char:EOLhyphen"/>bout that time fined for Alderman) takes the Aſſign<g ref="char:EOLhyphen"/>ment of it as a good Security for above 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> which the ſaid Sir <hi>John</hi> did after Repay, ſo as little was done more in getting in the money till 1663.</p>
+            <p>And then the Executors upon a new Petition,<note place="margin">2 <hi>June</hi> 1663.</note> gains a Reference to a Committee of Aldermen, and a Report from them to the Court of Aldermen, to this effect,<note place="margin">20 <hi>June</hi> 1663.</note> 
+               <hi>viz.</hi> That they found the money to be paid by Sir <hi>Richard Gurney,</hi> but not repaid to him, but in reſpect the money was iſſued out of the Chamber, (as was pretended) they conceived it could not be levyed without a Common Councel,</p>
+            <p>Upon which the Executors prepared a Petition to the Major and Common-councel,<note place="margin">1664.</note> but being delayed,</p>
+            <p>His Majeſty well knowing the great Sufferings of Sir <hi>Richard Gurney,</hi>
+               <note place="margin">16 <hi>June</hi> 1665.</note> by his Loyalty and Fidelity to the City, writ a Letter to the Lord Major, Court of Aldermen, and Common-Councel, recom<g ref="char:EOLhyphen"/>mending the Caſe to them; but the Common-Councel not ſitting, and the Plague encreaſing, no<g ref="char:EOLhyphen"/>thing was done more in that year.</p>
+            <p>Before the Executors could bring the matters to any Reſolution, the Plague deſtroyed the Citizens, and in 1666,<note place="margin">1666.</note> the Fire conſumed the City, (wherein Sir <hi>John</hi> had an houſe (let for 100 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> and more worth) burnt) and in 1667,<note place="margin">1667.</note> the <hi>Dutch</hi> gave a
+<pb n="7" facs="tcp:171818:5"/>
+               <!-- PDF PAGE 5 -->trouble to the whole Kingdom, for all which Reaſons, Sir <hi>Johns</hi> Counſel and Friends adviſed him not to ſtir in it, till the City was in a better condition to pay him.</p>
+            <p>The Executors applied themſelves freſh again to the Court of Aldermen, but ſoon after,<note place="margin">1670 1671 1672 1673</note> 
+               <hi>viz.</hi> in 1672 and 1673, Sir <hi>John</hi> being the only Proſecutor of it, was imployed in <hi>Suffolk</hi> about the <hi>Dutch</hi> Wars on that Coaſt.</p>
+            <p>Thoſe being ended, the Executors applied them<g ref="char:EOLhyphen"/>ſelves again to the Court of Aldermen,<note place="margin">1674 1675 1676</note> and then ſome ſcruples were raiſed concerning the nature of the Debt, which occaſioned Sir <hi>John Pettus</hi> to be at great expences and trouble in ſearching the Books in the Houſe of Lords and Houſe of Commons, the Court not permitting Sir <hi>John</hi> to have the view of the Chamberlines books as formerly he had.</p>
+            <p>At laſt Sir <hi>John</hi> (being then the ſole Petitioner) found that ſome of the Aldermen did favour his Lady who (had lived about Twenty years from him, and was turned Roman Catholick) and had endeavour'd to make a ſtop of any money to be paid to Sir <hi>John.</hi>
+            </p>
+            <p>Whereupon Sir <hi>John</hi> preſt to know the reſolution of the Court, whether they would pay it or not,<note place="margin">1677</note> that the might take ſome other legal courſe: to which two of the Aldermen replyed, that if Sir <hi>John</hi> did go to Law for it, the Excommunication which his Lady had againſt him ſhould be pleaded.</p>
+            <p>Upon which Anſwer,<note place="margin">1678</note> Sir <hi>John</hi> gave over ſolicita<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But now his Lady being Dead, and the Excom<g ref="char:EOLhyphen"/>munication diſcharged under the Seal of the Spiri<g ref="char:EOLhyphen"/>tual
+<pb n="8" facs="tcp:171818:6"/>
+               <!-- PDF PAGE 6 -->Court, and publiſht in Form, ſo as the whole Intereſt being in Sir <hi>John,</hi> he now Petitions ſingly and deſires their Reſolution.</p>
+            <list>
+               <head>Being able to prove,</head>
+               <item>1. That the 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> was Depoſited.</item>
+               <item>2. That moſt, if not all others who depoſited money upon the ſame occaſion, are repaid.</item>
+               <item>3. That Sir <hi>Richard</hi> was not repaid in his life time.</item>
+               <item>4. That is was engaged by Sir <hi>Richard,</hi> and Re<g ref="char:EOLhyphen"/>deemed by his Executors.</item>
+               <item>5. That it was afterwards purchaſed upon very valuable conſiderations by Sir <hi>John Pettus</hi> of the o<g ref="char:EOLhyphen"/>ther Executors.</item>
+               <item>6. That is was engaged by him for a good ſum to one that fin'd for Alderman.</item>
+               <item>7. That it had not been prudent or ſafe for Sir <hi>Richard</hi> in his life time, nor for his Executors for twelve years after Sir <hi>Richards</hi> Death, to preſs for it.</item>
+               <item>8. That three years after his Death, it was ac<g ref="char:EOLhyphen"/>knowledged by ſome Aldermen (by way of Diſco<g ref="char:EOLhyphen"/>very) to be in the Chamber) as money juſtly due to his Executors, and ſo claim'd by <hi>Goldſmith-Hall</hi> Commiſſioners.</item>
+               <item>9. That for Fifteen years after that diſcovery, it was acknowledg'd a juſt Debt by the Court of Alder<g ref="char:EOLhyphen"/>men, but the manner how it ſhould be raiſed and paid, was the only queſtion.</item>
+               <item>10. Sir <hi>John Pettus</hi> did coolly Proſecute the pay<g ref="char:EOLhyphen"/>ment of it ever after, becauſe Sir <hi>John</hi> did perceive
+<pb n="9" facs="tcp:171818:6"/>
+                  <!-- PDF PAGE 6 -->that his Lady had made an Intereſt in ſome Alder<g ref="char:EOLhyphen"/>men to ſtop it, unleſs ſhe might have better condi<g ref="char:EOLhyphen"/>tions than he thought fit to allow, conſidering what he had paid for it, and what trouble and charge he had been at concerning it.</item>
+               <item>11. That ſhe is now Dead, and the right to the ſaid 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and Intereſt, according to contract, is ſolely due to him.</item>
+               <item>12. That it is a Truſt in the Court, and ought to be performed with as much Sanctity and Integrity, as any money due to Orphans,</item>
+            </list>
+            <p>Eſpecially Conſidering</p>
+            <p>That Sir <hi>John Pettus</hi> can make it appear, that Sir <hi>Richard</hi> was leſſened in his Eſtate by his Impriſon<g ref="char:EOLhyphen"/>ment, Plunders, and Sequeſtration, <hi>&amp;c.</hi> meerly for his Loyalty to the King, and fidelity to the City) full 28600 <abbr>
+                  <hi>l.</hi>
+               </abbr> of which Sir <hi>Johns</hi> ſhare as Executor, would have been above 14300 <abbr>
+                  <hi>l.</hi>
+               </abbr> and therefore in Juſtice he ought to be paid this 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> with Intereſt (which in <hi>June</hi> laſt paſt, amounted to 2160 <abbr>
+                  <hi>l.</hi>
+               </abbr>) or in Equity a greater ſum for his Relative Sufferings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
